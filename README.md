@@ -2,3 +2,4 @@
 Ejercicio lab 6 </br>
 Integrantes: </br>
 Guerrero Sanchez Irvin </br>
+Zamarrón Ramírez Javier </br>
